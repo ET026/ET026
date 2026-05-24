@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Erenay Tozun
-- 👀 I’m interested in Coding, Fitness, Padel, Futsal, Formula 1.
+- 👀 I’m interested in Coding, Fitness, Padel, Futsal, Formula 1 and mountain biking.
 - 🌱 I’m currently learning: Magic XPA / Swift / SwiftUI
 - 💞️ I’m looking to collaborate on: anything C#/.NET, Angular, Vue.
 - 📫 How to reach me... 
